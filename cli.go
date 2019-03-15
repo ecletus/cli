@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/aghape/plug"
+	"github.com/ecletus/plug"
 	"github.com/moisespsena/go-default-logger"
 	"github.com/spf13/cobra"
 )
