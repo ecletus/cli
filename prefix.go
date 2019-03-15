@@ -1,5 +1,5 @@
 package cli
 
-import "github.com/aghape/helpers"
+import "github.com/moisespsena/go-path-helpers"
 
-var PREFIX = helpers.GetCalledDir()
+var PREFIX = path_helpers.GetCalledDir()
